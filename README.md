@@ -18,4 +18,6 @@
 
 [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/shwhenever)](https://githubroast.dev/u/shwhenever)
 
+<a href="https://githubroast.dev/u/shwhenever"><img src="https://githubroast.dev/api/card/shwhenever" alt="GitHub Roast" width="600" /></a>
+
 
